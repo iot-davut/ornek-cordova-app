@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <!--
+        Customize this policy to fit your own app's needs. For more guidance, please refer to the docs:
+            https://cordova.apache.org/docs/en/latest/
+        Some notes:
+            * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+            * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+                * Enable inline JS: add 'unsafe-inline' to default-src
+        -->
+
+        <meta http-equiv="Content-Security-Policy" content="child-src https://fb-cordova.herokuapp.com ; connect-src 'self' https://davutiotsunucu.herokuapp.com ;  default-src * gap://ready file:; style-src 'self' 'unsafe-inline' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' *"/>
+
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+        <meta name="color-scheme" content="light dark">
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+
+
+        <script src="js/jquery-3.6.0.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+
+        <title>Davut IoT</title>
+    </head>
+    <body>
+        <iframe src="https://fb-cordova.herokuapp.com" height="50px" width="100%"></iframe>
+
+        <section class="header d-flex align-items-center flex-row">
+            <div class="baslik" onclick="initialize()">AKILLI KİLİT</div>
+            <input type="text" id="arama-kutusu" class="form-control w-50" onchange ="arama(this)" placeholder="Arama"></input>
+            <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">+ Ekle</button>
+        </section>
+
+        <section class="mt-2">
+            <div class="text-center px-5"><small>Kilitleri liste üzerinde kontrol edebilirsiniz</small></div>
+            <ol class="list-group list-group-numbered" id="list">
+
+
+            </ol>
+        </section>
+
+        <div id="hata" class="position-absolute w-100 bottom-0 alert alert-danger alert-dismissible fade dismiss" role="alert">
+            <strong>Hata!</strong> İşlem başarısız, tekrar deneyin !
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">X</button>
+        </div>
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Yeni Kilit Ekle</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3">
+                                <input type="text" placeholder="İsim giriniz" class="form-control" id="isim">
+                            </div>
+                            <div class="mb-3">
+                                <select id="bolum" name="bolum">
+                                    <option value="Dış Kapı">Dış Kapı</option>
+                                    <option value="Pencere 1">Pencere 1</option>
+                                    <option value="Pencere 2">Pencere 2</option>
+                                    <option value="Pencere 3">Pencere 3</option>
+                                    <option value="Garaj">Garaj</option>
+                                    <option value="Balkon Kapısı">Balkon Kapısı</option>
+                                </select>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                                <button type="button" onclick="kilitEkle(this)" class="btn btn-primary" data-bs-dismiss="modal">Kaydet</button>
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+        <script src="cordova.js"></script>
+        <script src="js/index.js"></script>
+        <script>
+            $(document).ready(function() {
+                $(".toast").toast('show');
+            });
+        </script>
+    </body>
+</html>

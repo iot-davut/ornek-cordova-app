@@ -1,0 +1,4 @@
+com/davuterarslan/BuildConfig.java
+ com.davuterarslan.BuildConfig
+com/davuterarslan/MainActivity.java
+ com.davuterarslan.MainActivity

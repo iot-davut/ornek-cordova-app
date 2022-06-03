@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+MERGED from [:CordovaLib] C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\CordovaLib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\6ae8fac0b210ca093a60c2c61e2922c6\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ceng\.gradle\caches\transforms-3\70f78ce24120dff055ef58b726bcf234\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ceng\.gradle\caches\transforms-3\3297dc2dd385e1e41c2b8eb533abced2\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\0f74b3d5ac520cd117ff975f19ec4d5e\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\666614050a1cf13a62030a1c3a8fe6ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ceng\.gradle\caches\transforms-3\90d3030986f6b9c84e861371bde06d31\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\4e1d1ea1cc15d22e0d0de95e1ed81450\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\5da01d0e7fd7c4b558c4f51b863e197c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2bfc0e8f973b55ff3535b328841a9379\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\14a953202cb08a794bb91da416974318\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\122cca537308836f557766dbb0dc94d6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\095f1b2e2832d13841c0d99aa152ad8c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\a815663dd2e4c9ad2bc0064b33dd1d72\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\6b6864ef374588b60b49dde28f5b7c9e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\05a5ea0d81a7d4e8da01f29ee967e70a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\57dcd55d685c9657dd3b3e33df7b8907\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ceng\.gradle\caches\transforms-3\2515d55cfbf85dde241c7666e30d08eb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\7ec8439709558b97b8365cf86b7c0b07\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ceng\.gradle\caches\transforms-3\2651195023e3140e4e7ede23abdc8a5c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\6439e3b59161fc1b36c52cc1a72dda86\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2acb0ff6b6ad705691ee6b3c3351a5b6\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\d73023efeeccf9a07d9501e5d3f19c68\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\375f597eb338b6a4ad0bd34b79f3725e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:102-129
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:130-188
+	android:versionCode
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ceng\.gradle\caches\transforms-3\2515d55cfbf85dde241c7666e30d08eb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ceng\.gradle\caches\transforms-3\2515d55cfbf85dde241c7666e30d08eb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:5:121-147
+	android:label
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+	android:hardwareAccelerated
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+activity#com.davuterarslan.MainActivity
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:6:9-12:20
+	android:label
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:7:13-50
+	android:launchMode
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:7:51-81
+	android:windowSoftInputMode
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:7:161-203
+	android:configChanges
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+	android:theme
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:7:110-160
+	android:name
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:7:82-109
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:8:13-11:29
+	android:label
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:8:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+MERGED from [:CordovaLib] C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\CordovaLib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\CordovaLib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\6ae8fac0b210ca093a60c2c61e2922c6\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\6ae8fac0b210ca093a60c2c61e2922c6\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ceng\.gradle\caches\transforms-3\70f78ce24120dff055ef58b726bcf234\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\ceng\.gradle\caches\transforms-3\70f78ce24120dff055ef58b726bcf234\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ceng\.gradle\caches\transforms-3\3297dc2dd385e1e41c2b8eb533abced2\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\ceng\.gradle\caches\transforms-3\3297dc2dd385e1e41c2b8eb533abced2\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\0f74b3d5ac520cd117ff975f19ec4d5e\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\ceng\.gradle\caches\transforms-3\0f74b3d5ac520cd117ff975f19ec4d5e\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\666614050a1cf13a62030a1c3a8fe6ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\666614050a1cf13a62030a1c3a8fe6ac\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ceng\.gradle\caches\transforms-3\90d3030986f6b9c84e861371bde06d31\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ceng\.gradle\caches\transforms-3\90d3030986f6b9c84e861371bde06d31\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\4e1d1ea1cc15d22e0d0de95e1ed81450\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\4e1d1ea1cc15d22e0d0de95e1ed81450\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\5da01d0e7fd7c4b558c4f51b863e197c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\5da01d0e7fd7c4b558c4f51b863e197c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2bfc0e8f973b55ff3535b328841a9379\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2bfc0e8f973b55ff3535b328841a9379\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\14a953202cb08a794bb91da416974318\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\14a953202cb08a794bb91da416974318\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\122cca537308836f557766dbb0dc94d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\122cca537308836f557766dbb0dc94d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\ceng\.gradle\caches\transforms-3\3145bdce4e962115822e59e905edea80\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\095f1b2e2832d13841c0d99aa152ad8c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\095f1b2e2832d13841c0d99aa152ad8c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\a815663dd2e4c9ad2bc0064b33dd1d72\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\a815663dd2e4c9ad2bc0064b33dd1d72\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\6b6864ef374588b60b49dde28f5b7c9e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\ceng\.gradle\caches\transforms-3\6b6864ef374588b60b49dde28f5b7c9e\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\05a5ea0d81a7d4e8da01f29ee967e70a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\05a5ea0d81a7d4e8da01f29ee967e70a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\57dcd55d685c9657dd3b3e33df7b8907\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\57dcd55d685c9657dd3b3e33df7b8907\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ceng\.gradle\caches\transforms-3\2515d55cfbf85dde241c7666e30d08eb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ceng\.gradle\caches\transforms-3\2515d55cfbf85dde241c7666e30d08eb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\7ec8439709558b97b8365cf86b7c0b07\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\7ec8439709558b97b8365cf86b7c0b07\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ceng\.gradle\caches\transforms-3\2651195023e3140e4e7ede23abdc8a5c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ceng\.gradle\caches\transforms-3\2651195023e3140e4e7ede23abdc8a5c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\6439e3b59161fc1b36c52cc1a72dda86\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\ceng\.gradle\caches\transforms-3\6439e3b59161fc1b36c52cc1a72dda86\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2acb0ff6b6ad705691ee6b3c3351a5b6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ceng\.gradle\caches\transforms-3\2acb0ff6b6ad705691ee6b3c3351a5b6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\d73023efeeccf9a07d9501e5d3f19c68\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\d73023efeeccf9a07d9501e5d3f19c68\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\375f597eb338b6a4ad0bd34b79f3725e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ceng\.gradle\caches\transforms-3\375f597eb338b6a4ad0bd34b79f3725e\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ceng\Desktop\CordovaApp\Davut-IoT\platforms\android\app\src\main\AndroidManifest.xml
